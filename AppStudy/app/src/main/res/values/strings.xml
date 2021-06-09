@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Enter your name</string>
+    <string name="button">Send</string>
+</resources>
+
+<!-- string 변수에 변수명이 app_name 에 내용이 My Application -->

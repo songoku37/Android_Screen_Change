@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">내 어플리케이션</string>
+    <string name="name">이름을 입력하세요</string>
+    <string name="button">보내기</string>
+</resources>
+
+<!-- 변수명은 같게하고 각 언어들로 적기-->
+<!-- 전구버튼 or main.xml – Default – Edit Translation – 지구본 - Korea -->
